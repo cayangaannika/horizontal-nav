@@ -8,3 +8,8 @@ h1 {
   font-family: Bevan, sans-serif;
   color: #fff;
 }
+
+nav {
+  display: inline-block;
+  margin: .3em;
+}
