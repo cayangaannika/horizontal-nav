@@ -1,8 +1,9 @@
 html {
   background-color: #dbd6cf;
   line-height: 1.5;
+  box-sizing: inherit;
 }
 
 h1 {
-  font-family: sans-serif;
+  font-family: Bevan, sans-serif;
 }
