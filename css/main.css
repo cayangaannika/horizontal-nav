@@ -20,10 +20,6 @@ body {
   box-sizing: inherit;
 }
 
-nav {
-  padding: .6em;
-}
-
 nav ul li {
   display: inline-block;
   margin: auto;
@@ -31,4 +27,5 @@ nav ul li {
   color: #fff;
   text-align: center;
   list-style-type: square;
+  padding: .6em;
 }
