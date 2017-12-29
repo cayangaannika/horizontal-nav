@@ -12,6 +12,7 @@ h1 {
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
 
 nav ul li {
   display: inline-block;
