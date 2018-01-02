@@ -22,7 +22,7 @@ body {
   box-sizing: inherit;
 }
 
-nav ul li {
+nav li {
   display: inline-block;
   margin: auto;
   background-color: #713837;
@@ -32,4 +32,8 @@ nav ul li {
   padding: .6em;
   border-style: none;
   margin: .3em;
+}
+
+nav:hover {
+  color: #f33;
 }
