@@ -30,7 +30,6 @@ nav ul li {
   text-align: center;
   list-style-type: georgian;
   padding: .6em;
-  border-style: ridge;
+  border-style: none;
   margin: .3em;
-  border: border-radius;
 }
