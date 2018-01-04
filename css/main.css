@@ -10,6 +10,10 @@ h1 {
   text-align: center;
 }
 
+header {
+  margin: .3em;
+}
+
 body {
   background-color: #79756f;
   padding: .6em;
