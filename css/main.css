@@ -37,6 +37,6 @@ nav li {
   border-radius: .3em;
 }
 
-nav li:hover {
+li:hover {
   color: #f33;
 }
