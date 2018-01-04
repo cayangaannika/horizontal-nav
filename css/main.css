@@ -16,6 +16,7 @@ body {
   text-align: center;
   text-decoration: inherit;
   margin: .3em;
+  border-color: #595652;
 }
 
 *, *::before, *::after {
@@ -29,7 +30,6 @@ nav li {
   text-align: center;
   list-style-type: georgian;
   padding: .6em;
-  border-style: none;
   border-radius: .3em;
 }
 
