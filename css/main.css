@@ -15,7 +15,7 @@ body {
   padding: .6em;
   text-align: center;
   text-decoration: inherit;
-  margin: auto;
+  margin: inherit;
   border-color: #595652;
 }
 
