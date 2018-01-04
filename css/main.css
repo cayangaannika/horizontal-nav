@@ -31,6 +31,7 @@ nav li {
   padding: .6em;
   border-style: none;
   margin: .3em;
+  border-radius: .3em;
 }
 
 nav:hover {
