@@ -18,8 +18,7 @@ body {
   background-color: #79756f;
   padding: .6em;
   text-align: center;
-  text-decoration: inherit;
-  margin: inherit;
+  margin: .3em;
   border-color: #595652;
 }
 
@@ -37,6 +36,6 @@ nav li {
   border-radius: .3em;
 }
 
-ul:hover {
+nav:hover {
   color: #f33;
 }
