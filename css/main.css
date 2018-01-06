@@ -35,7 +35,7 @@ nav li {
   border-radius: .3em;
 }
 
-nav {
+a:hover {
   color: #fff;
 }
 
