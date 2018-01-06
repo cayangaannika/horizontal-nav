@@ -28,8 +28,8 @@ body {
 
 nav li {
   display: inline-block;
-  background-color: #713837;
   color: #fff;
+  background-color: #713837;
   text-align: center;
   list-style-type: georgian;
   padding: .5em .75em;
